@@ -35,7 +35,32 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
+ <p align="left">My name is Ganesh Swami and I'm a Sr. Fullstack Developer.
+  
 
+🌱 Have 8+ years of web development experince & 7+ years in JavaScript
+
+🌱 I’m currently learning Blockchain
+
+👯 I’m looking to collaborate on different projects realted to JavaScript tech stacks
+
+👨‍💻 All of my projects are available at [my website](https://avinyaweb.com)
+
+📝 I’m available on [LinkedIn](https://www.linkedin.com/in/ganesh-swami/)
+
+👀 Ask me about NodeJS, React, NextJS, WebrRtc and APIs
+
+⚡ Fun fact  - Apart from coding I do play video games
+
+
+---
+### Connect With Me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-swami/)
+[![StackoverFlow Badge](https://img.shields.io/badge/StackoverFlow-ddd?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/5326034/ganesh/)
+
+---
+![](https://komarev.com/ghpvc/?username=ganesh-swami&color=brightgreen)
 <!--
 **ganesh-swami/ganesh-swami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
