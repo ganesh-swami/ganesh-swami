@@ -38,7 +38,7 @@
  <p align="left">My name is Ganesh Swami and I'm a Sr. Fullstack Developer.
   
 
-🌱 Have 8+ years of web development experince & 7+ years in JavaScript
+🌱 Have 12+ years of web development experince & 7+ years in JavaScript
 
 🌱 I’m currently learning Blockchain
 
