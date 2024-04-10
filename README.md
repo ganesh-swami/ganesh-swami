@@ -61,7 +61,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ganesh-swami&color=white)
+![](https://komarev.com/ghpvc/?username=ganesh-swami&color=brightgreen)
 
 <!--
 **ganesh-swami/ganesh-swami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
