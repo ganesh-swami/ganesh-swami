@@ -1,5 +1,5 @@
 <h3 align="center"> Hello Folks! 👋 </h3>
-<h3 align="center">Full Stack NodeJS, ReactJS, NextJS, WebRTC Developer</h3>
+<h3 align="center">Full Stack NextJS, NodeJS, ReactJS, TypeScript Saas and Ecommerce Developer</h3>
 
 ---
 
