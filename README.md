@@ -46,7 +46,7 @@
 
 👨‍💻 All of my projects are available at [my website](https://avinyaweb.com)
 
-📝 I’m available on [LinkedIn](https://www.linkedin.com/in/ganesh-swami/)
+<!-- 📝 I’m available on [LinkedIn](https://www.linkedin.com/in/ganesh-swami/) -->
 
 👀 Ask me about NodeJS, React, NextJS, WebrRtc and APIs
 
