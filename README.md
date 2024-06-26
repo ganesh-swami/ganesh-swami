@@ -35,16 +35,17 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
- <p align="left">My name is Ganesh Swami and I'm a Sr. Fullstack Developer.
+ <p align="left">My name is Ganesh Swami and I'm a Senior JavaScript Developer.
   
+⚡ Passionated FullStack web developer to help business owner to grow their idea with developing mind blowing tech product.
 
-🌱 Have 12+ years of web development experince & 7+ years in JavaScript
+🌱 Have 12+ years of web development experince & 8+ years in JavaScript
 
-🌱 I’m currently learning Blockchain
+🌱 I’m currently sharping my skills in cloud computing for large scale solutions
 
 👯 I’m looking to collaborate on different projects realted to JavaScript tech stacks
 
-👨‍💻 All of my projects are available at [my website](https://avinyaweb.com)
+<!--👨‍💻 All of my projects are available at [my website](https://avinyaweb.com) -->
 
 <!-- 📝 I’m available on [LinkedIn](https://www.linkedin.com/in/ganesh-swami/) -->
 
