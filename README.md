@@ -1,5 +1,5 @@
 <h3 align="center"> Hello Folks! 👋 </h3>
-<h3 align="center">Full Stack NextJS, NodeJS, ReactJS, TypeScript Saas and Ecommerce Developer</h3>
+<h3 align="center">Full Stack NextJS, NodeJS, ReactJS, TypeScript, AI, Saas and Ecommerce Developer</h3>
 
 ---
 
@@ -15,17 +15,20 @@
 ![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
 ![WebRtc](https://img.shields.io/badge/WebRtc-ddd?style=flat-square&logo=webrtc&logoColor=333333)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
 ![Tailwind](https://img.shields.io/badge/Tailwind-f7f7f7?style=flastic&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-007FFF?style=flastic&logo=mui&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+
 
 
 ![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
@@ -41,9 +44,9 @@
 
 🌱 Have 12+ years of web development experince & 8+ years in JavaScript
 
-🌱 I’m currently sharping my skills in cloud computing for large scale solutions
+🌱 I’m currently sharping my skills in AI, cloud computing for large scale solutions
 
-👯 I’m looking to collaborate on different projects realted to JavaScript tech stacks
+👯 I’m looking to collaborate on inovative project realted to JavaScript tech stacks
 
 <!--👨‍💻 All of my projects are available at [my website](https://avinyaweb.com) -->
 
