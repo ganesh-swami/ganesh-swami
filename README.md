@@ -48,6 +48,8 @@
 
 👯 I’m looking to collaborate on inovative project realted to JavaScript tech stacks
 
+👯 Developing a SAAS for agency owners as side project
+
 <!--👨‍💻 All of my projects are available at [my website](https://avinyaweb.com) -->
 
 <!-- 📝 I’m available on [LinkedIn](https://www.linkedin.com/in/ganesh-swami/) -->
