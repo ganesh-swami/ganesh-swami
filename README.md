@@ -42,6 +42,8 @@
   
 ⚡ Passionated FullStack web developer to help business owner to grow their idea with developing mind blowing tech product.
 
+Love to work on performance enhancement and functionality improvement 
+
 🌱 Have 12+ years of web development experince & 8+ years in JavaScript
 
 🌱 I’m currently sharping my skills in AI, cloud computing for large scale solutions as well as web3
