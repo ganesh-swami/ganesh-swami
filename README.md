@@ -40,7 +40,7 @@
 ---
  <p align="left">My name is Ganesh Swami and I'm a Senior JavaScript Developer.
   
-⚡ Passionated FullStack web developer to help business owner to grow their idea with developing mind blowing tech product.
+⚡  Passionated FullStack web developer to help business owner to grow their idea with developing mind blowing tech product.
 
 Love to work on performance enhancement and functionality improvement 
 
