@@ -61,7 +61,7 @@
  
 | Shadcn | Framer Motion | BootStrap | HTML | CSS |
 |----------|----------|----------|----------|----------|
-|<img src="assets/shadcnui.svg" alt="msf" width="85" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-originalsvg" title="framermotion" alt="framermotion" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="55" height="55"/>
+|<img src="assets/shadcnui.svg" alt="msf" width="85" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="framermotion" alt="framermotion" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="55" height="55"/>
 
 
 ### My tools for Data Manipulation & Visualisation:
