@@ -57,6 +57,11 @@
 |----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="nextjs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" alt="nestjs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="55" height="55"/>|
 
+### Other Library & Tools
+ 
+| Shadcn | Framer Motion | BootStrap | HTML | CSS |
+|----------|----------|----------|----------|----------|
+|<img src="assets/shadcnui.svg" alt="msf" width="85" height="55" />|<img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-originalsvg" title="framermotion" alt="framermotion" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="55" height="55"/>
 
 
 ### My tools for Data Manipulation & Visualisation:
@@ -80,11 +85,7 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 
-### Tools for CTF's
- 
-| Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
-|----------|----------|----------|----------|----------|
-|<img src="assets/meta.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
+
 
 
 ---
