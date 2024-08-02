@@ -5,6 +5,7 @@
 
 
 ---
+<!--
 
 ### Languages and Tools :
 
@@ -40,7 +41,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-
+-->
 
 ## Languages and Tools 
 <div>
