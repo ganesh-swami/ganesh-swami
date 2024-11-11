@@ -98,7 +98,7 @@
 
 🌱 Have 12+ years of web development experince & 8+ years in JavaScript
 
-🌱 I’m currently sharping my skills in AI, cloud computing for large scale solutions as well as web3
+🌱 I’m currently sharping my skills in bockchain, solana, Web3, Ethereum, smart contracts
 
 👯 I’m looking to collaborate on inovative project realted to JavaScript tech stacks
 
