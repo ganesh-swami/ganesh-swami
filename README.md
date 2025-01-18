@@ -1,5 +1,5 @@
 <h3 align="center"> Hello Folks! 👋 </h3>
-<h3 align="center">Full Stack MERN, NextJS, NodeJS, ReactJS, TypeScript, JavaScript, AI, Saas, Ecommerce, web3 & blockchain developer</h3>
+<h3 align="center">Full Stack MERN, NextJS, NodeJS, ReactJS, TypeScript, JavaScript, AI, Saas, Ecommerce, web3 & blockchain developer </h3>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ganesh-swami&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)
 
