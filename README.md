@@ -119,12 +119,13 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-swami/) -->
 [![StackoverFlow Badge](https://img.shields.io/badge/StackoverFlow-ddd?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/5326034/ganesh/)
 
+<!--
 ---
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=ganesh-swami&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
+-->
 
 ---
 
